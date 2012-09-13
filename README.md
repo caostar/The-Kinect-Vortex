@@ -27,23 +27,8 @@ What follows is a short medidation. To close everything, just raise you right ar
 I will post a video soon showing how it is done.
 The meaning of the things at the screen are secret. You can change it to whatever you want.
 
-The sound track at the background is not here at github because of the below license. I have no idea about who is the author.
-The file src/assets/sound/trilhaVortex.mp3 needs to be fullfiled with something if you want a soundtrack.
-
-This project is protected with the WTFPL License:
-
-DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                   Version 2, December 2004
-
-Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
-
-Everyone is permitted to copy and distribute verbatim or modified
-copies of this license document, and changing it is allowed as long
-as the name is changed.
-
-           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
- 0. You just DO WHAT THE FUCK YOU WANT TO.
+You cannot use this for commercial porpuses. There are too many different things on the project and you must check the license 
+for each thing to make sure you can use it publicily. All of them are open-source, but each one has different criteria of use.
+There is a music file music (the background soundtrack) missing at the sources because I dont know the author.
 
 
