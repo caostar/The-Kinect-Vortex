@@ -13,7 +13,7 @@ You must install the OPENNI drivers:
 This page can help: http://code.google.com/p/simple-openni/wiki/Installation
 
 The bin-release folder contains an app ready for use. If you have the drivers and a kinect. Go for it!
-It only works with OSX. Sorry about that too. But you can compile a new one for windows as well with the source code. :)
+It only works with OSX. Sorry about that. But you can compile a new one for windows as well with the source code. :)
 
 The app itself is a visualization for the classic Vortex Ritual:
 http://www.chaosmatrix.org/library/chaos/rites/vortex.html
