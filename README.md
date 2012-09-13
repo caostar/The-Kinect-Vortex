@@ -6,8 +6,10 @@ It relies too on
 Starling: http://gamua.com/starling/
 Greensock Tween Engine: https://www.greensock.com/
 AS3-signals: https://github.com/robertpenner/as3-signals
+Flint Particles (only at the final medidation): http://flintparticles.org/
 
 WARNING: The code is completely messy, cowboy style. I am not a programmer, I just make things happen with code.
+There are lots of unused classes too.
 
 You must install the OPENNI drivers:
 This page can help: http://code.google.com/p/simple-openni/wiki/Installation
@@ -24,6 +26,9 @@ Wait for another 15 seconds and close the vortex.
 What follows is a short medidation. To close everything, just raise you right arm.
 I will post a video soon showing how it is done.
 The meaning of the things at the screen are secret. You can change it to whatever you want.
+
+The sound track at the background is not here at github because of the below license. I have no idea about who is the author.
+The file src/assets/sound/trilhaVortex.mp3 needs to be fullfiled with something if you want a soundtrack.
 
 This project is protected with the WTFPL License:
 
