@@ -29,6 +29,7 @@ The meaning of the things at the screen are secret. You can change it to whateve
 
 You cannot use this for commercial porpuses. There are too many different things on the project and you must check the license 
 for each thing to make sure you can use it publicily. All of them are open-source, but each one has different criteria of use.
-There is a music file music (the background soundtrack) missing at the sources because I dont know the author.
+
+There is a music file (the background soundtrack) missing at the sources because It is from Lustmord and I cannot put a copyrighted music here.
 
 
